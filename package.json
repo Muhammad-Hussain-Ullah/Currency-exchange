@@ -1,0 +1,19 @@
+{
+  "name": "hussain-0000-currency-exchange",
+  "version": "1.0.0",
+  "description": "A Fully functional machine that converts a currency to another with the help of Typescript , Java Script and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
